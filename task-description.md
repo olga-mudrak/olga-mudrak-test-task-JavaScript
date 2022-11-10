@@ -6,7 +6,7 @@
 (если иное не было оговорено в чате с Andersen Trainee)
 
 - Java (просьба использовать 11 версию Java);
-- JavaScript;
+- JavaScript; Мой код написан с помощью JavaScript
 - Python.
 
 Задания, необходимо написать код:
